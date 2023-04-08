@@ -1,0 +1,243 @@
+{
+  "name": "MANCHESTER UNITED",
+  "version": "1.0.1",
+  "description": "GLORY GLORY MAN UNITED ",
+  "authors": [
+    {
+      "name": "netz#0200",
+      "id": "12345678910111213"
+    }
+  ],
+  "theme_color_map": {
+    "TEXT_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#808080",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#B30018",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#8C0013",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#101014",
+      "#FFFFFF"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_600": "#B30018",
+    "PRIMARY_500": "#B30018",
+    "PRIMARY_630": "#8C0013",
+    "PRIMARY_800": "#8C0013",
+    "BRAND_260": "#8C0013",
+    "BRAND_360": "#AFE1AF",
+    "WHITE": "#FFFFFF",
+    "RED_260": "#FFFFFF",
+    "GREEN_600": "#FFFFFF",
+    "BRAND_300": "#FFFFFF",
+    "BRAND_330": "#FFFFFF",
+    "BRAND_345": "#FFFFFF",
+    "BRAND_400": "#8C0013",
+    "BRAND_430": "#8C0013",
+    "BRAND_460": "#8C0013",
+    "BRAND_500": "#8C0013",
+    "BRAND_530": "#8C0013",
+    "BRAND_560": "#8C0013",
+    "BRAND_600": "#8C0013",
+    "BRAND_630": "#8C0013",
+    "BRAND_660": "#808080",
+    "BRAND_700": "#808080",
+    "RED_300": "#808080",
+    "RED_330": "#808080",
+    "RED_345": "#808080",
+    "RED_360": "#808080",
+    "RED_400": "#808080",
+    "RED_430": "#808080",
+    "RED_460": "#808080",
+    "RED_500": "#808080",
+    "RED_530": "#808080",
+    "RED_560": "#808080",
+    "RED_600": "#808080",
+    "RED_630": "#808080",
+    "RED_660": "#808080",
+    "RED_700": "#808080",
+    "ORANGE_260": "#B30018",
+    "ORANGE_300": "#B30018",
+    "ORANGE_330": "#B30018",
+    "ORANGE_345": "#B30018",
+    "ORANGE_360": "#B30018",
+    "ORANGE_400": "#B30018",
+    "ORANGE_430": "#B30018",
+    "ORANGE_460": "#B30018",
+    "ORANGE_500": "#B30018",
+    "ORANGE_530": "#B30018",
+    "ORANGE_560": "#B30018",
+    "ORANGE_600": "#B30018",
+    "ORANGE_630": "#B30018",
+    "ORANGE_660": "#B30018",
+    "ORANGE_700": "#B30018",
+    "YELLOW_260": "#B30018",
+    "YELLOW_300": "#B30018",
+    "YELLOW_330": "#B30018",
+    "YELLOW_345": "#B30018",
+    "YELLOW_360": "#B30018",
+    "YELLOW_400": "#B30018",
+    "YELLOW_430": "#B30018",
+    "YELLOW_460": "#B30018",
+    "YELLOW_500": "#B30018",
+    "YELLOW_530": "#B30018",
+    "YELLOW_560": "#B30018",
+    "YELLOW_600": "#B30018",
+    "YELLOW_630": "#B30018",
+    "YELLOW_660": "#B30018",
+    "YELLOW_700": "#B30018",
+    "GREEN_260": "#AFE1AF",
+    "GREEN_300": "#AFE1AF",
+    "GREEN_330": "#AFE1AF",
+    "GREEN_345": "#AFE1AF",
+    "GREEN_360": "#AFE1AF",
+    "GREEN_400": "#AFE1AF",
+    "GREEN_430": "#AFE1AF",
+    "GREEN_460": "#AFE1AF",
+    "GREEN_500": "#AFE1AF",
+    "GREEN_530": "#AFE1AF",
+    "GREEN_560": "#AFE1AF",
+    "GREEN_630": "#AFE1AF",
+    "GREEN_700": "#AFE1AF",
+    "BLUE_260": "#808080",
+    "BLUE_300": "#808080",
+    "BLUE_330": "#808080",
+    "BLUE_345": "#808080",
+    "BLUE_360": "#808080",
+    "BLUE_400": "#808080",
+    "BLUE_430": "#808080",
+    "BLUE_460": "#808080",
+    "BLUE_500": "#808080",
+    "BLUE_530": "#808080",
+    "BLUE_560": "#808080",
+    "BLUE_600": "#808080",
+    "BLUE_630": "#808080",
+    "BLUE_660": "#808080",
+    "BLUE_700": "#808080",
+    "PRIMARY_400": "#AFE1AF"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#B30018"
+  },
+  "color": "#B30018",
+  "background": {
+    "url": "https://media.discordapp.net/attachments/963123156955049987/1094299762326511728/IMG_0517.jpg",
+    "blur": "1",
+    "alpha": "0.7"
+  }
+}
